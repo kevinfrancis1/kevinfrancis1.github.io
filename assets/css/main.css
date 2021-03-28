@@ -33,9 +33,8 @@ body {
 	line-height: 1;
 }
 
-ol, ul, li {
+ol, ul {
 	list-style: none;
-	list-style-position: inside;
 }
 
 blockquote, q {
